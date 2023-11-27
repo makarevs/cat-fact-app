@@ -4,6 +4,7 @@ import './App.css';
 import CatFacList from './components/CatFact2'
 
 function App() {
+  
   return (
     <div className="App">
       <CatFacList/>
